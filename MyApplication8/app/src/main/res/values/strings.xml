@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Hafıza Oyunu</string>
+    <string name="button">Meyve Eşleştir</string>
+    <string name="hosGeldin">Oyuna Hoş Geldiniz!</string>
+    <string name="denemeSayisi">Deneme Sayısı</string>
+    <string name="puan">Puan</string>
+    <string name="btnAraclar">Araç Eşleştir</string>
+    <string name="btnHayvanlar">Hayvan Eşleştir</string>
+    <string name="_4x4">4x4</string>
+    <string name="_6x6">6x6</string>
+    <string name="_5x5">5x5</string>
+    <string name="tekrar_oyna">Tekrar Oyna</string>
+
+
+</resources>
